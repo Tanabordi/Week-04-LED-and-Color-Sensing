@@ -32,9 +32,14 @@
 
 ![](../Images/ESP32-RGB_LED.svg)
 
+**รูปที่ 1** LED Common Cathode
+
+![](../Images/common%20anode.svg)
+
+**รูปที่ 2** LED Common Anode
 
 #### **หมายเหตุ**
-ถ้า LED ที่ได้มาเป็น Common Anode ให้ต่อ common เข้าไฟ + 3.3 โวลต์ แต่ยังคงใช้ Resistor ค่าเดิม
+ถ้า LED ที่ได้มาเป็น Common Anode ให้ต่อ common เข้าไฟ +5 โวลต์ แต่ยังคงใช้ Resistor ค่าเดิม
 ส่วนการเขียนโปรแกรมต้องกลับค่าบิตให้ตรงตามชนิด LED
 
 #### 3.1 ตัวอย่างซอร์สโค้ดการทดลอง (`main.c`)
