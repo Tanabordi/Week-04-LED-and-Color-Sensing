@@ -34,7 +34,7 @@
 
 **รูปที่ 1** LED Common Cathode
 
-![[common anode.svg]]
+![](../Images/common%20anode.svg)
 
 **รูปที่ 2** LED Common Anode
 
